@@ -48,7 +48,7 @@ order by PercentPopulationInfected desc
 Select Location, MAX(cast(Total_deaths as int)) as TotalDeathCount
 From PortfolioProject..CovidDeaths
 --Where location like '%finland%'
-Where continent is not null --Data has some flaws. Continents are bit off. Example Asia is not a Continent.
+Where continent is not null --Data has some flaws.
 Group by Location
 order by TotalDeathCount desc
 
