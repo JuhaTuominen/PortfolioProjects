@@ -1,3 +1,7 @@
+--This isn't mine. 
+--I am using this to practice my own skills. 
+--I didn't come up with this code, but i have made it to fit my purposes.
+
 /*
 Covid 19 Data Exploration 
 Skills used: Joins, CTE's, Temp Tables, Windows Functions, Aggregate Functions, Creating Views, Converting Data Types
@@ -140,3 +144,7 @@ From #PercentPopulationVaccinated
 --	On dea.location = vac.location
 --	and dea.date = vac.date
 --where dea.continent is not null
+
+--This isn't mine. 
+--I am using this to practice my own skills. 
+--I didn't come up with this code, but i have made it to fit my purposes.
