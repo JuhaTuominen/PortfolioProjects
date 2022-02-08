@@ -1,3 +1,7 @@
+--This isn't mine. 
+--I am using this to practice my own skills. 
+--I didn't come up with this code, but i have made it to fit my purposes.
+
 /*
 Cleaning Data in SQL Queries
 */
@@ -165,3 +169,7 @@ From PortfolioProject.dbo.NashvilleHousing
 
 ALTER TABLE PortfolioProject.dbo.NashvilleHousing
 DROP COLUMN OwnerAddress, TaxDistrict, PropertyAddress, SaleDate
+
+--This isn't mine. 
+--I am using this to practice my own skills. 
+--I didn't come up with this code, but i have made it to fit my purposes.
